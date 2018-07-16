@@ -1,3 +1,9 @@
+# Solution
+See: https://github.com/voximplant/react-native-voximplant/issues/42
+
+The solution: https://github.com/ricsam/testVI/commit/da329f261c8107852dd76a6d800d420faf884e01
+
+
 ## How to run
 `git clone https://github.com/ricsam/testVI.git cd && cd testVI/ios && open testVI.xcworkspace/`
 
